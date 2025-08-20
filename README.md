@@ -243,5 +243,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Community**: Join discussions in the repository
 
 ---
+##Note:- User's might see the below error since a proper payment gateway is not added to the site...Still the orders will be properly visble in the orders section when a user places an order.
 
-**Built with ❤️ using v0 by Vercel**
+**Order Failed
+User not authenticated.
