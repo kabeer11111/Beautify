@@ -244,5 +244,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ⚠️ Note:- User's might see the below error since a proper payment gateway is not added to the site...Still the orders will be properly visble in the orders section when a user places an order.
 
-**Order Failed**
-**User not authenticated.**
+**Order Failed 
+User not authenticated.**
