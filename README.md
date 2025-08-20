@@ -59,13 +59,6 @@ npm install
 
 ### 2. Set Up Supabase Integration
 
-#### Option A: Using v0 (Recommended)
-1. Open the project in [v0.app](https://v0.app)
-2. Go to Project Settings → Integrations
-3. Add Supabase integration
-4. Follow the setup wizard to connect your Supabase project
-
-#### Option B: Manual Setup
 1. Create a new project at [supabase.com](https://supabase.com)
 2. Go to Project Settings → API
 3. Copy your project URL and anon key
@@ -97,9 +90,6 @@ Run the following SQL scripts in order (available in the `scripts/` folder):
 6. **Alter Products Table v3**: `scripts/alter-products-table-v3.sql`
 7. **Setup Cart/Wishlist RLS**: `scripts/setup-cart-wishlist-rls.sql`
 8. **Alter Orders Table v2**: `scripts/alter-orders-table-v2.sql`
-
-#### Using v0:
-The setup steps above will automatically run these scripts for you.
 
 #### Manual Setup:
 1. Open Supabase Dashboard → SQL Editor
@@ -183,11 +173,6 @@ The app uses Supabase Auth with email/password authentication:
 
 ### Deploy to Vercel (Recommended)
 
-1. **Using v0**:
-   - Click the "Deploy" button in the top right
-   - Follow the deployment wizard
-
-2. **Manual Deployment**:
    \`\`\`bash
    # Install Vercel CLI
    npm i -g vercel
