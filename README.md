@@ -1,8 +1,10 @@
-# Beautify - Premium Beauty E-commerce Platform
+<img width="1352" height="878" alt="Screenshot 2025-08-20 at 11 55 18 PM" src="https://github.com/user-attachments/assets/b147e1c2-9b19-4349-a2c4-76ac9ce81c2f" /># Beautify - Premium Beauty E-commerce Platform
 
 A modern, full-stack e-commerce platform for premium beauty products built with Next.js 14, Supabase, and Tailwind CSS. Features a responsive design, user authentication, shopping cart, wishlist functionality, and admin dashboard.
 
-![Beautify Homepage](https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=1200&h=600&fit=crop&crop=center)
+### Deployed Site:- https://beautify1111.vercel.app
+
+<img width="1352" height="878" alt="Screenshot 2025-08-20 at 11 55 34 PM" src="https://github.com/user-attachments/assets/3cfc6ffe-4898-471a-bcff-25aef13c7b61" />
 
 ## ✨ Features
 
